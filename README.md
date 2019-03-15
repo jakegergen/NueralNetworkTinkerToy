@@ -1,2 +1,3 @@
 # NueralNetworkTinkerToy
-# NueralNetworkTinkerToy
+created by Jake Gergen
+
